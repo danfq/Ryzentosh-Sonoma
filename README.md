@@ -1,4 +1,4 @@
-# Hackintosh (Ventura | OC 0.9.4)
+# Hackintosh (Ventura | OC 0.9.5)
 
 ![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/system.png?raw=true)
 
