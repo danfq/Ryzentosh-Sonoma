@@ -39,7 +39,7 @@ Using [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/), check th
 
 It should look like this:
 
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/GPU%20Preparations/success.png?raw=true)
+![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/GPU%20Preparations/success.png?raw=true)
 
 
 You're done!

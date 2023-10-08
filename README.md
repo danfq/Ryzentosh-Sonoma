@@ -1,13 +1,13 @@
-# Hackintosh (Ventura | OC 0.9.5)
+# Hackintosh (Sonoma | OC 0.9.5)
 
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/system.png?raw=true)
+![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/system.png?raw=true)
 
 After quite a lot of tweaks, twists and turns, I finally made my Build 100% functional.
 
 If you have the same Build, check out the `Releases` Page to get the EFI.<br>
 Don't forget to generate your own `SMBIOS` and replace it via `ProperTree`.
 
-The only `SMBIOS` that seems to have no issues at all is `iMacPro1,1`.
+To get as much Performance out of your Ryzentosh, with these specifications, I suggest you use `iMac20,1`.
 
 ## Build Specifications
 
@@ -28,10 +28,10 @@ I've tested all `iServices` and ran benchmarks - no issues to report.
 
 ### CPU
 
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/cpu.png?raw=true)
+![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/cpu.png?raw=true)
 
 ### GPU
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/gpu.png?raw=true)
+![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/gpu.png?raw=true)
 
 Sometimes, `GPU Monitor Pro` will report a wrong value for "Current Free Video Memory", while there are actually 8GB in total.
 
@@ -39,12 +39,3 @@ Most of the time, this can be "fixed" by rebooting.
 
 \* This GPU <b>MUST</b> be flashed, before attempting to use it in MacOS.<br>
 Make sure to follow the steps in the `GPU Preparations` folder.
-
-### iServices
-
-#### iMessage
-
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/imessage.png?raw=true)
-
-#### FaceTime
-![alt text](https://github.com/danfq/Hackintosh-Ventura-0.9.4/blob/main/Screenshots/facetime.png?raw=true)
