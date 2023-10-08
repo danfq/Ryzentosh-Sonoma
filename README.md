@@ -1,6 +1,6 @@
 # Hackintosh (Sonoma | OC 0.9.5)
 
-![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/system.png?raw=true)
+![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/system.png?raw=true)
 
 After quite a lot of tweaks, twists and turns, I finally made my Build 100% functional.
 
@@ -28,10 +28,10 @@ I've tested all `iServices` and ran benchmarks - no issues to report.
 
 ### CPU
 
-![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/cpu.png?raw=true)
+![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/cpu.png?raw=true)
 
 ### GPU
-![alt text](https://github.com/danfq/Hackintosh-Sonoma-0.9.5/blob/main/Screenshots/gpu.png?raw=true)
+![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/gpu.png?raw=true)
 
 Sometimes, `GPU Monitor Pro` will report a wrong value for "Current Free Video Memory", while there are actually 8GB in total.
 
