@@ -16,6 +16,7 @@ To get as much Performance out of your Ryzentosh, with these specifications, I s
 | CPU         | AMD Ryzen 5 5600X | <b>YES</b> |
 | Motherboard | PRIME B450-PLUS   | <b>YES</b> \| USB Ports Mapped    |
 | RAM         | 32GB (4 x 8GB) (3400MHz)       | <b>YES</b>    |
+| WiFi + BT   | BCM94360CD | <b>YES</b> |
 | Storage     | Crucial P3 1TB NVMe | <b>YES</b> |
 | GPU (1)     | XFX RX580 2048SP | <b>YES</b> * |
 | GPU (2)     | NVIDIA RTX 3060Ti | <b>NO</b> (Unsupported \| Disabled) |
