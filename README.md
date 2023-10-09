@@ -7,7 +7,7 @@ After quite a lot of tweaks, twists and turns, I finally made my Build 100% func
 If you have the same Build, check out the `Releases` Page to get the EFI.<br>
 Don't forget to generate your own `SMBIOS` and replace it via `ProperTree`.
 
-To get as much Performance out of your Ryzentosh, with these specifications, I suggest you use `iMac20,1`.
+To get as much Performance as you can out of your Ryzentosh, with these specifications, I suggest you use `iMac20,1`.
 
 ## Build Specifications
 
