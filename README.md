@@ -1,4 +1,4 @@
-# Hackintosh (Sonoma | OC 0.9.5)
+# Ryzentosh (Sonoma | OC 0.9.5)
 
 ![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/system.png?raw=true)
 
