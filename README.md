@@ -1,4 +1,4 @@
-# Ryzentosh (Sonoma | OC 0.9.9)
+# Ryzentosh (Sonoma | OC 1.0.0)
 
 ![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/system.png?raw=true)
 
