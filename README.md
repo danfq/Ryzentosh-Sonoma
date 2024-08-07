@@ -19,7 +19,7 @@ To get as much Performance as you can out of your Ryzentosh, with these specific
 | WiFi + BT   | BCM94360CD | <b>YES</b> |
 | Storage     | Crucial P3 1TB NVMe | <b>YES</b> |
 | GPU (1)     | XFX RX580 2048SP | <b>YES</b> * |
-| GPU (2)     | NVIDIA RTX 3060Ti | <b>NO</b> (Unsupported \| Disabled) |
+| GPU (2)     | Sapphire RX 7600 XT | <b>NO</b> (Unsupported \| Disabled) |
 
 ## What Works
 
