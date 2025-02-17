@@ -1,8 +1,5 @@
 # Ryzentosh (Sonoma | OC 1.0.1)
 
-## ATTENTION: Project Discontinued as of 13-02-2025
-### nevermind i can't live without the ecosystem lol
-
 ![alt text](https://github.com/danfq/Ryzentosh-Sonoma/blob/main/Screenshots/system.png?raw=true)
 
 After quite a lot of tweaks, twists and turns, I finally made my Build 100% functional.
